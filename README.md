@@ -32,3 +32,4 @@ Wszystkie prezentacje zrobione są w [R Markdown](https://rmarkdown.rstudio.com)
 
 - [Intro](01_intro.html)
 - [Elementy muzyki](02_elementy_muzyki.html)
+- [Neurofizjologia](03_neurofizjo.html)
