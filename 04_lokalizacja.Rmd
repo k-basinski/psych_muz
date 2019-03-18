@@ -1,0 +1,129 @@
+---
+title: "Lokalizacja źródeł dźwięku. Metafora wysokości dźwięku"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    center: true
+    incremental: true
+---
+
+
+# Lokalizacja źródeł dźwięku. Metafora wysokości dźwięku
+
+## David Huron o metaforze wysokości dźwięku
+
+https://vimeo.com/34747210
+
+## Zagadka metafory wysokości dźwięku
+
+Dlaczego na dźwięki i niższej częstotliwości mówimy, że są _niskie_ a na dźwięki o wysokiej częstotliwości, że są _wysokie_?
+
+## Determinizm językowy, hipoteza Sapira-Whorfa
+
+- Nasze myśli i zachowania są kształtowane, przynajmniej do pewnego stopnia, przez język jakiego używamy.
+
+- Determinizm językowy - język **determinuje** nasz sposób myślenia (bardzo kontrowersyjna, silniejsza wersja hipotezy Sapira-Whorfa)
+
+## Metafora wysokości dźwięku
+
+- Metafora jest starsza niż odkrycie, że wysokość dźwięku jest powiązana z częstotliwością
+- Metafora jest starsza niż zapis nutowy
+- Ptaki wydają wysokie dźwięki i siedzą _u góry_, słonie _na dole_...
+- Podnosimy głowę śpiewając wysokie dźwięki
+- Wiele kontrprzykładów (kobiety/mężczyźni, dorośli/dzieci)
+
+
+## W innych językach mamy inne metafory na wysokość dźwięku
+
+- W większości języków mamy dźwięki wysokie/niskie
+- W kilku językach _wysoki_ oznacza dźwięki o niskiej częstotliwości
+- W tych kulturach dominującym instrumentem jest instrument, w którym niskie dźwięki są _na górze_ instrumentu
+- W indonezyjskim i kilku innych mamy metaforę wielkości - dźwięki duże i małe
+
+## Pratt (1930)
+
+- Wiele głośników, rozmieszczonych w różnych miejscach za kotarą
+- Badani mieli wskazać, skąd pochodzi źródło dźwięku
+- Gdy z głośnika w środku odtwarzane były **wysokie** dźwięki, ludzie oceniali je jako dobiegające z **góry**
+- Gdy z głośnika w środku odtwarzane były **niskie** dźwięki, ludzie oceniali je jako dobiegające z **dołu**
+
+## Potwierdzenie determinizmu językowego?
+
+- Nie do końca
+- Efekt ten replikuje się u dzieci, które nie miały wykształconej metafory wysokości dźwięku
+
+## Problem z życia wpływa na rozwój nauki
+
+- Nagrania lądujących i startujących samolotów
+- _Na żywo_ słychać różnicę pomiędzy startem i lądowaniem
+- Na nagraniu nie słychać różnicy
+- Jak to?
+
+## Rozwiązanie zagadki - mikrofony nie mają uszu
+
+- Kształt ludzkiej małżowiny usznej zmienia barwę dźwięku
+- Dźwięki dobiegające z **góry** mają bardziej uwypuklone **górne** częstotliwości
+- Dźwięki dobiegające z **dołu** mają bardziej uwypuklone **dolne** częstotliwości
+
+## Lokalizacja źródła dźwięku - azymut
+
+- _Intra-aural time differences_ - wynika z prędkości dźwięku
+- _Intra-aural amplitude differences_ - wynika z kształtu naszego ciała
+- Te dane wskazują dokładnie to samo dla wielu możliwych lokalizacji dźwięku (_cone of confusion_)
+- Tu przydają się małżowiny uszne
+
+
+
+## Małżowiny a lokalizacja - Hofman & Van Opstal (1998)
+
+- Zmieniono kształt małżowin ochotnikom przy użyciu implantów
+- Uczestnicy dalej dobrze lokalizowali azymut
+- Uczestnicy nie byli w stanie lokalizować wysokości dźwięku
+- Fundamentalna rola małżowin w percepcji lokalizacji wysokości dźwięku
+
+## Małżowiny a lokalizacja - Hofman & Van Opstal (1998)
+
+- Uczestnicy byli proszeni o noszenie implantów przez ok. 5 tygodni
+- Po czasie uczestnicy _nauczyli się_ rozpoznawania wysokości dźwięków używając "nowych uszu"
+
+## Co z azymutem? Hofman, Vlaming, Termeer & Van Opstal (2002)
+
+- Zastosowano "przeciwnie przepięte" aparaty słuchowe
+- Dźwięk dochodzący do lewego ucha był wzmacniany w prawym uchu
+- Dźwięk dochodzący do prawego ucha był wzmacniany w lewym uchu
+
+## Co z azymutem? Hofman, Vlaming, Termeer & Van Opstal (2002)
+
+- Procedura odwraca percepcję azymutu
+- Uczestnicy **nie adaptowali się do tej zmiany**
+- Percepcja wysokości **wyuczona**
+- Percepcja azymutu **wrodzona**
+
+## Jak to się ma do determinizmu?
+
+- Wydaje się, że w przypadku metafory wysokości dźwięku percepcja zdeterminowała język, a nie na odwrót
+
+## Jak przebiega uczenie się lokalizacji wysokości dźwięku? Walker (2010)
+
+- Niewidomi i widzący badani słyszeli dźwięk o opadającej bądź wzrastającej częstotliwości
+- _Wyobraź sobie, że masz trochę pieniędzy. Ten dźwięk oddaje to co stało się z twoimi oszczędnościami. Posłuchaj go i powiedz, czy masz teraz więcej czy mniej pieniędzy?_
+
+## Jak przebiega uczenie się lokalizacji wysokości dźwięku? Walker (2010)
+
+- Osoby widzące słysząc dźwięk o wzrastającej _f_ mówiły, że mają **więcej pieniędzy**
+- Osoby niewidome w większości mówiły, że mają **mniej pieniędzy**
+- Część osób niewidomych mówiła, że ma więcej pieniędzy. Były to osoby, które utraciły wzrok w trakcie życia.
+- Osoby niewidome od urodzenia mówiły, że mają **mniej**
+
+## Dlaczego?
+
+- Niewidomi od urodzenia użyli drugiej metafory wysokości dźwięku
+- Duże przestrzenie produkują rezonans w niższych częstotliwościach - dźwięki **duże**
+- Małe przestrzenie produkują rezonans w **wyższych** częstotliwościach - dźwięki **małe**
+
+## To jak przebiega uczenie się lokalizacji wysokości dźwięku?
+
+- Uczenie się przebiega wskutek wskazówek wzrokowych
+- Oczy "kalibrują" uszy
+- Niewidomi od urodzenia nie mogą tego zrobić - używają drugiej metafory

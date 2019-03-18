@@ -1,0 +1,5 @@
+library(rmarkdown)
+render("01_intro.Rmd")
+render("02_elementy_muzyki.Rmd")
+render("03_neurofizjo.Rmd")
+render("04_lokalizacja.Rmd")

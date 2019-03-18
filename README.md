@@ -12,7 +12,7 @@ Zajęcia są w poniedziałki od 12:15 do 13:45 w T3.
 
 **Uwaga! Na następne zajęcia czytamy...**
 
-...rozdział _Audition_ McDermotta od początku do str. 32, do końca podrozdziału _Sound Source Perception_.
+Artykuł _Indifference to dissonance in native Amazonians reveals cultural variation in music perception_ (McDermott, Schultz, Underraga, Godoy, 2016), patrz niżej.
 
 #### Książki i rozdziały
 
@@ -26,6 +26,11 @@ Zajęcia są w poniedziałki od 12:15 do 13:45 w T3.
 
 - Indifference to dissonance in native Amazonians reveals cultural variation in music perception. J H McDermott, A F Schultz, E A Undurraga and R A Godoy. Nature (2016), vol.535 pp. 547--550. [udostępniony na stronie autora](http://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf)
 
+#### Wykłady na video
+
+- [tutaj](https://www.youtube.com/watch?v=HCBaApqRqSg) Josh McDermott opowiada o tym, o czym było na pierwszych trzech zajęciach
+- [tutaj](https://vimeo.com/34747210) David Huron opowiada o metaforze lokalizacji wysokości dźwięku
+
 ## Materiały
 
 Wszystkie prezentacje zrobione są w [R Markdown](https://rmarkdown.rstudio.com), jeśli znajdziesz błąd popraw i zrób commita!
@@ -33,3 +38,4 @@ Wszystkie prezentacje zrobione są w [R Markdown](https://rmarkdown.rstudio.com)
 - [Intro](01_intro.html)
 - [Elementy muzyki](02_elementy_muzyki.html)
 - [Neurofizjologia](03_neurofizjo.html)
+- [Lokalizacja dźwięku](04_lokalizacja.html)

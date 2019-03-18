@@ -77,6 +77,12 @@ output:
 
 # Kora słuchowa
 
+## Wzrastający poziom skomplikowania układu
+
+- 3500 komórek rzęskowych na ucho
+- 30000 włókien w nerwie słuchowym
+- 60 mln neuronów w pierwszorzędowej korze słuchowej (?)
+
 ## Kora słuchowa
 
 ![Kora słuchowa](img/03_cortex.png)
