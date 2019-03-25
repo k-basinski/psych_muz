@@ -12,8 +12,11 @@ Zajęcia są w poniedziałki od 12:15 do 13:45 w T3.
 
 **Uwaga! Na następne zajęcia (01.04) czytamy...**
 
+_This Is Your Brain On Music_, rozdział 2.
+
 Rozdział pt. _Structure and Interpretation of Rhythm in Music_ . Henkjan Honing. Rozdział 9 z _The Psychology of Music_. Ed. Diana Deutsch. Academic Press, 2013.
 
+Pamiętajcie, że na następnych zajęciach mamy kolokwium ze wszystkiego co było dotychczas.
 
 
 #### Książki i rozdziały
