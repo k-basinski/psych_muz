@@ -10,9 +10,11 @@ Zajęcia są w poniedziałki od 12:15 do 13:45 w T3.
 
 ## Literatura
 
-**Uwaga! Na następne zajęcia czytamy...**
+**Uwaga! Na następne zajęcia (01.04) czytamy...**
 
-Artykuł _Indifference to dissonance in native Amazonians reveals cultural variation in music perception_ (McDermott, Schultz, Underraga, Godoy, 2016), patrz niżej.
+Rozdział pt. _Structure and Interpretation of Rhythm in Music_ . Henkjan Honing. Rozdział 9 z _The Psychology of Music_. Ed. Diana Deutsch. Academic Press, 2013.
+
+
 
 #### Książki i rozdziały
 
