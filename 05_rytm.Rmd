@@ -1,0 +1,47 @@
+---
+title: "Rytm"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    center: true
+    incremental: true
+---
+
+# Składniki rytmu
+
+## Wzorzec rytmiczny (_rhythmic pattern_)
+
+- Wzorzec tego "co się powtarza"
+- W muzyce tożsamy z pojęciem _rytmu_
+- Można z grubsza zapisać go w nutach
+
+## Struktura metryczna
+
+- Sposób, w jaki słuchacz nadaje wzorcowi rytmicznemu regularność
+- Powiązany z metrum w muzyce
+- Beat
+- Indukcja beat'u (_beat induction_) - proces, w którym ze skomplikowanego rytmu wyciągamy beat
+
+## Tempo
+
+- Jak szybki jest beat?
+- Problematyczne pojęcie, bo w prawdziwej muzyce nie do końca wiemy jak nadawać tempo
+- Przyjmuje się, że tempa w muzyce współczesnej oscylują wokół 80-150 bpm
+
+## (Micro)timing
+
+- Niuanse, wrażenie grania 'do tyłu', rytmu 'spiętego' itd.
+- Sprowadza się do delikatnych opóźnień/przyspieszeń niektórych dźwięków w rytmie
+- Bardzo ciekawe zjawisko, wiele pytań badawczych:
+    - Skąd wiemy, że przesunięte wartości tworzą ten sam rytm?
+    - O ile możemy przesunąć, żeby uniknąć wrażenia _nierówności_
+    - Dlaczego niektóre przesunięcia są fajniejsze niż inne
+
+## Przestrzeń wszystkich rytmów (4 dźwięki)
+
+![Przestrzeń wszystkich rytmów 4-dźwiękowych](img/05_rhythm_space3d.png)
+
+## Mapy chronotopologiczne
+
+![Mapy chronotopologiczna](img/05_mapy.png)
