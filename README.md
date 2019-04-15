@@ -10,13 +10,9 @@ Zajęcia są w poniedziałki od 12:15 do 13:45 w T3.
 
 ## Literatura
 
-**Uwaga! Na następne zajęcia (01.04) czytamy...**
+**Uwaga! Ostatnie kolokwium będzie z tematów: rytm, emocje, ewolucja, preferencje**
 
-_This Is Your Brain On Music_, rozdział 2.
-
-Rozdział pt. _Structure and Interpretation of Rhythm in Music_ . Henkjan Honing. Rozdział 9 z _The Psychology of Music_. Ed. Diana Deutsch. Academic Press, 2013.
-
-Pamiętajcie, że na następnych zajęciach mamy kolokwium ze wszystkiego co było dotychczas.
+Rozdziały z Levitina nr. 
 
 
 #### Książki i rozdziały
@@ -44,3 +40,7 @@ Wszystkie prezentacje zrobione są w [R Markdown](https://rmarkdown.rstudio.com)
 - [Elementy muzyki](02_elementy_muzyki.html)
 - [Neurofizjologia](03_neurofizjo.html)
 - [Lokalizacja dźwięku](04_lokalizacja.html)
+- [Rytm](05_rytm.html)
+- [Emocje](06_emocje.html)
+- [Ewolucja](07_ewolucja.html)
+- [Preferencje](08_preferencje.html)

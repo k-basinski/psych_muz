@@ -1,0 +1,103 @@
+---
+title: "Emocje w muzyce"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    center: true
+    incremental: true
+---
+
+# Emocje w muzyce
+
+## Emocje?
+
+>Emotions are relatively brief, intense and rapidly changing responses to potentially important events (subjective challenges or opportunities) in the external or internal environment, usually of a social nature, which involve a number of subcomponents (cognitive changes, subjective feelings, expressive behavior, and action tendencies) that are more or less ‘synchronized’ during an emotion episode. - Juslin & Sloboda
+
+## Emocje vs afekt?
+
+- Afekt jest szerszym pojęciem
+- Afekt to wszystko co ma walencję i wiąże się z jakimś pobudzeniem
+- Straszny bałagan pojęciowy
+
+## Muzyka wyraża emocje
+
+- 141 badanych miało odpowiedzieć, _co_ wyraża muzyka. 100% zaznaczyło, że emocje (Juslin i Laukka, 2004)
+- Jest duża zgodność między badanymi co do rodzaju wyrażanej emocji, są jednak różnice w subtelnościach
+
+## Thompson and Robitaille (1992) 
+
+- Doświadczeni muzycy mieli skomponować melodie wyrażające 6 emocji: _radość, żal, podekscytowanie, nudę, gniew i pokój_
+- Zapis nutowy kompozycji grało midi
+- Melodie te były później trafnie rozpoznawane przez ludzi z niewielkim doświadczeniem muzycznym
+
+## Juslin i Laukka, 2003
+
+- Metaanaliza 41 badań nad ekspresją w muzyce
+- Wykonawcy potrafią samą ekspresją bez problemu przekazać 5 emocji: _radość, gniew, smutek, strach i delikatność (?)_
+- Potrafią to zrobić tym samym utworem
+
+## Tabela 4, Juslin i Sloboda
+
+## Muzyka wywołuje emocje
+
+## BRECVEM Model (Juslin & Västfjäll, 2008)
+
+- Siedem mechanizmów generowania emocji przez muzykę:
+- Odruch pnia mózgu
+- Rytmiczne wtrenowanie
+- Warunkowanie
+- Zarażanie emocjonalne
+- Wizualizacja
+- Pamięć epizodyczna
+- Efekt oczekiwania
+
+## Odruch pnia mózgu
+
+- Emocja jest generowana ponieważ jedna lub więcej spośród cech bodźca akustycznego interpretowana jest jako ważne/pilne zdarzenie przez pień mózgu
+- Dźwięki głośne, nagłe, dysonujące powodują pobudzenie lub nieprzyjemne emocje u słuchaczy
+- Te reakcje zachodzą w odpowiedzi na bodziec dźwiękowy, niekoniecznie muzyczny (najprostszy poziom przetwarzania)
+
+
+## Rytmiczne wtrenowanie
+
+- Proces, w którym emocja jest indukowana w słuchaczu, ponieważ rytm muzyczny wpływa na któryś z rytmów fizjologicznych słuchacza (np. częstość tętna), w ten sposób że rytm fizjologiczny “dostosowuje” się do rytmu zewnętrznego
+- Zmieniony rytm fizjologiczny (tętno) może doprowadzić do powstania pozostałych aspektów emocji (znaku +/-, obiektu) za pomocą mechanizmu sprzężenia zwrotnego
+- Najczęściej powoduje to wzrost pobudzenia u słuchaczy
+
+## Warunkowanie
+
+- Emocja powstaje wskutek procesu warunkowania (klasycznego), ponieważ bodziec muzyczny był wcześniej skojarzony z innym, przyjemnym lub przykrym doświadczeniem
+- Np. słuchałeś na okrągło danej piosenki w czasie radosnego wydarzenia (wyniki rekrutacji na studia?)
+
+## Warunkowanie
+
+- Piosenka ta została skojarzona (bodziec warunkowy) z pozytywym stanem emocjonalnym (reakcja warunkowa)
+- Gdy po jakimś czasie posłuchasz tej piosenki jeszcze raz, mogą pojawić się pozytywne emocjie
+
+
+## Zarażanie emocjonalne
+
+- Emocja powstaje na skutek rozpoznawania łaunku emocjonalnego danej muzyki i “zarażania się nim”.
+- Słuchając smutnej muzyki, mamy większą szansę poczuć się smutni
+- Słuchając wesołej muzyki, mamy większą szansę poczuć się weseli itd.
+
+## Wizualizacja
+
+- Emocje powstają poprzez wyobrażanie sobie określonych treści (obrazów, wizualizacji, np. pięknego krajobrazu) w czasie słuchania muzyki
+- Treści te są nacechowane emocjonalnie
+
+## Pamięć epizodyczna
+
+- Emocja powstaje, ponieważ dana muzyka powiązana jest z konkretnym epizodem o wyraźnym nacechowaniu emocjonalnym, zapisanym w pamięci
+- Zjawisko “kochanie, grają naszą piosenkę”
+
+## Efekt oczekiwania
+
+- W czasie aktywnego słuchania muzyki cały czas mamy oczekiwania w stosunku do dalszego ciągu
+- Reakcje emocjonalne powodują zdarzenia muzyczne które są zgodne z naszymi oczekiwaniami lub zgoła odmienne od nich
+
+## Efekt oczekiwania
+
+- Zdarzenia zgodne powodują najczęściej radość, satysfakcję
+- Zdarzenia niezgodne powodują złość, rozdrażnienie, ale też zaciekawienie

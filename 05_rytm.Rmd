@@ -23,6 +23,18 @@ output:
 - Beat
 - Indukcja beat'u (_beat induction_) - proces, w którym ze skomplikowanego rytmu wyciągamy beat
 
+## Metrum
+
+- 2/4
+- 3/4
+- 4/4
+
+## Metrum
+
+- 6/8
+- 5/4
+- 7/4
+
 ## Tempo
 
 - Jak szybki jest beat?
@@ -33,10 +45,13 @@ output:
 
 - Niuanse, wrażenie grania 'do tyłu', rytmu 'spiętego' itd.
 - Sprowadza się do delikatnych opóźnień/przyspieszeń niektórych dźwięków w rytmie
-- Bardzo ciekawe zjawisko, wiele pytań badawczych:
-    - Skąd wiemy, że przesunięte wartości tworzą ten sam rytm?
-    - O ile możemy przesunąć, żeby uniknąć wrażenia _nierówności_
-    - Dlaczego niektóre przesunięcia są fajniejsze niż inne
+
+## (Micro)timing
+
+- Bardzo ciekawe zjawisko, wiele pytań badawczych
+- Skąd wiemy, że przesunięte wartości tworzą ten sam rytm?
+- O ile możemy przesunąć, żeby uniknąć wrażenia _nierówności_
+- Dlaczego niektóre przesunięcia są fajniejsze niż inne
 
 ## Przestrzeń wszystkich rytmów (4 dźwięki)
 
@@ -45,5 +60,6 @@ output:
 ## Mapy chronotopologiczne
 
 ![Mapy chronotopologiczna](img/05_mapy.png)
+
 
 

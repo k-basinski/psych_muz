@@ -1,0 +1,132 @@
+---
+title: "Skąd się wzięła muzyka?"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    center: true
+    incremental: true
+---
+
+# Skąd się wzięła muzyka?
+
+## Muzyka jest wszędzie?
+
+- Jest uniwersalna dla wszystkich kultur
+- Instrumenty muzyczne pojawiły się bardzo dawno w rozwoju filogenetycznym _homo sapiens_
+- Spędzamy **bardzo** dużo czasu na słuchaniu muzyki
+- Jesteśmy nią otoczeni (_muzak_)
+- Większość z nas lubi muzykę (niektórzy nie - _amuzja_)
+- Jest to wielki biznes (w 2015r. sprzedaż muzyki )
+
+## To skąd wzięła się muzyka?
+
+- Jeśli jest wszędzie, to być może pełni rolę ewolucyjną?
+- Nie ma zgody co do tego w środowisku 
+
+## Darwin był na tak
+
+- Darwin uważał, że muzyka odgrywa rolę w selekcji seksualnej
+- Uprawianie muzyki, wraz z tańcem, służy manifestacji sprawności seksualnej
+
+## Dużo argumentów
+
+- Tańce i muzyka plemienna wymagająca dużo energii
+- _Haka_
+- Gwiazdy rocka w latach 70tych, hip-hopu na pocz. XXIw.
+- Muzyką zajmują się częściej mężczyźni
+
+## Być może chodzi o twórczość
+
+- Twórczość (manifestowana tworzeniem muzyki) może być atrakcyjna dla kobiet 
+- Twórczy i biedni artyści są oceniani jako bardziej atrakcyjni jako bardziej atrakcyjni niż bogaci i nietwórczy faceci przez kobiety w najbardziej płodnej fazie cyklu (w innych fazach nie ma różnic)
+
+## Być może chodzi o twórczość
+
+- Bogactwo jest ważne z punktu widzenia bezpieczeństwa wychowywanego potomstwa
+- Twórczość może być ważniejsza z punktu widzenia przekazywania dalej "dobrych" genów
+
+## Ewolucja działa z opóźnieniem
+
+- Ok. 50 000 lat jest potrzebne na wykształcenie adaptacji widocznej w genotypie (choć to może mniej...)
+- Adaptacyjna powinna być muzyka naszych praneolitycznych przodków a nie muzyka klasyczna:)
+- Istotne różnice: powiązanie z tańcem i ruchem, brak akademii muzycznych, rola śpiewu
+
+## Być może chodzi o spoiwo społeczne
+
+- Kolektywne muzykowanie pełni rolę kleju społecznego
+- Osoby z zespołem Williamsa są bardzo muzykalne i uspołecznione, osoby z zaburzeniami ze spektrum autyzmu przeciwnie
+- Levitin twierdzi, że mózgi osób z WS są bardziej muzykalne...
+
+## Muzyka to proto-język
+
+- Być może śpiewanie pojawiło się u ludzi przed mówieniem
+- Muzyka jako stymulator rozwoju poznawczego
+- Muzyka jako zabawa
+- Aktywności muzyczne poprawiają prozodię mowy
+- Duże "umuzykalnienie" interakcji matka-dziecko
+
+## Steven Pinker
+
+<img src="img/07_pinker.png">
+
+## Steven Pinker
+
+- Psycholog, lingwista, kognitywista
+- Autor bestsellerów: _The Blank Slate, The Language Instinct, How The Mind Works, Better Angels of Our Nature, The Sense Of Style, Enlightenment Now_
+- Wielki adwokat psychologii ewolucyjnej i obliczeniowej teorii umysłu
+
+## Pinker jest na nie
+
+- _Music is an auditory cheesecake_ 
+- _It happens to tickle several important parts of the brain in a highly pleasurable way_
+- _As far as biological cause and effect is concerned, music is useless_
+- Muzyka to spandrel
+- Muzyka to produkt uboczny adaptacji, jaką jest język
+
+## Spandrel
+
+<img src="img/07_spandrel.jpg">
+
+## Nie ma zgody w środowisku
+
+- Ani Patel zrobił ankietę w 2019 na liście mailingowej _Auditory_
+- Pytanie: _Do you think evolution has specifically shaped the human brain to support music processing?_
+- 53 osoby na tak, 53 na nie
+
+## Argumenty na tak
+
+- Music processing (or aspects of it) evolved as the result of selective pressures relating to social bonding, mother-infant bonding, sexual fitness displays, emotional regulation, etc.
+- Music is pervasive and spontaneous across cultures
+- Some neurological/biological/genetic traits are domain-specific to music (rhythmic entrainment, higher-level music processing, etc.)
+
+## Argumenty na tak
+
+- Infants show musical preferences before musical understanding can be learned
+- We emotionally respond to music like other stimuli important to survival
+- Music is similar to language, perhaps even a precursor, and language was shaped by evolution
+- Music is too dissimilar to language to be only a side-effect of language processing
+
+## Argumenty na tak
+
+- We are drawn to music beyond merely for pleasure
+- Musicality has been important to our culture for long enough to be selected for
+- We can be impacted by music even when other neural processes are damaged
+
+## Argumenty na nie
+
+ - Music seems more like a byproduct/ invention which takes advantage of other evolved traits, or music is not important enough to be the main driving force for selection in comparison to other traits which share music processing networks
+- No proof that music has specialized evolutionary advantage
+
+## Argumenty na nie
+
+- Animals other than humans create music for non-communication purposes
+- Music processing specificity in the brain comes from environmental factors rather than evolutionary ones
+
+## Argumenty na nie
+
+- Musical skill/interest is not universal, what we think of as "music" isn’t static over time
+- There hasn't been enough time for musicality to evolve
+
+
+

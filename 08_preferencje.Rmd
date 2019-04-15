@@ -1,0 +1,41 @@
+---
+title: "Preferencje muzyczne"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    center: true
+    incremental: true
+---
+
+# Preferencje muzyczne
+
+## Rentfrow & Gosling, 2003
+
+- Preferencje muzyczne to różnice indywidualne w afektywnych odpowiedziach na muzykę
+- Stanowią zestaw względnie stałych cech
+- Mają strukturę czynnikową 
+
+## Rentfrow & Gosling, 2003
+
+<img src="img/08_stomp.png">
+
+## Kwestionariusz STOMP-R
+
+<img src="img/08_stompr.png">
+
+## Problemy tego ujęcia
+
+- Zależność od gatunku
+- Trafność międzykulturowa
+
+## Model MUSIC
+
+- Rentfrow, Goldberg, Stillwell, Kosinski, Gosling, Levitin (2011, 2012)
+- Metodologia niezależna od podziałów gatunkowych
+- Pięć czynników: _Mellow, Unpretentious, Sophisticated, Intense, Contemporary_
+
+## Preferencje atrybutów muzycznych (Greenberg et al, 2016)
+
+- Chodzi o **atrybuty muzyczne**
+- Trzy czynniki: _Arousal, Depth, Valence_
