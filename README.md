@@ -12,7 +12,7 @@ Zajęcia są w poniedziałki od 12:15 do 13:45 w T3.
 
 **Uwaga! Ostatnie kolokwium będzie z tematów: rytm, emocje, ewolucja, preferencje**
 
-Rozdziały z Levitina nr. 
+Rozdziały z Levitina nr. 2, 8 i 9, rozdziały 9 (Honing) i 15 (Juslin & Sloboda) z Deutsch.
 
 
 #### Książki i rozdziały
