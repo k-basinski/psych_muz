@@ -1,0 +1,40 @@
+---
+title: "Muzykoterapia"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    center: true
+    incremental: true
+---
+
+# Muzykoterapia
+
+## Racjonalno-Naukowy Model Mediacyjny  (R-SMM)
+
+- Muzykoterapia oparta na dowodach naukowych
+- Model tłumaczy, w jaki sposób muzyka oddziałuje jako bodziec powodujący zmianę zachowania
+- Podstawowe założenie – za percepcję muzyki odpowiadają procesy neurologiczne, psychologiczne i fizjologiczne
+- Jest to _framework_, w ramach którego można projektować interwencje muzykoterapeutyczne oparte na dowodach naukowych
+
+## R-SMM – cztery kroki
+
+1. Tworzenie modeli oddziaływania muzycznego – w jaki sposób ludzie odbierają muzykę, jak muzyka na nich oddziałuje i jak ją wytwarzają (mechanizmy fizjologiczne, psychologiczne, neurologiczne)
+2. Nie-muzyczne modele równoległe – znalezienie istotnych powiązań pomiędzy zachowaniem muzycznym a nie-muzycznym, będącym obiektem terapii
+
+## R-SMM – cztery kroki
+
+3. Modele mediacyjne – jaki jest bezpośredni wpływ muzyki na zachowanie nie-muzyczne? Badania na populacjach zdrowych ochotników i populacjach klinicznych
+4. Modele kliniczne – ewaluacja oddziaływań terapeutycznych poprzez badania kliniczne
+
+
+## Przykład zastosowania R-SMM – śpiewanie w chorobach układu oddechowego z zab. mówienia
+
+- Śpiewanie polega na „przepychaniu” powietrza przez drogi oddechowe. Wydawanie określonych dźwięków wymaga aktywności oddechowej, aktywności gardła i artykulacji
+- Mówienie angażuje te same struktury
+
+## Przykład zastosowania R-SMM – śpiewanie w chorobach układu oddechowego z zab. mówienia
+
+- Długotrwały trening śpiewu poprawia funkcje organów odpowiedzialnych za mówienie (bardziej „ekonomiczne” wydatkowanie powietrza, wyćwiczone mięśnie klatki piersiowej, przepony itd.)
+- Badania kliniczne pokazujące skuteczność tej formy muzykoterapii w POChP (Engen, 2005)
+
